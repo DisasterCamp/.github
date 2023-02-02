@@ -6,7 +6,7 @@
 | :--: | :------------------------------------------------------: | :----------------------------------------------------------: | :--: |
 |  1   | [lock-layer](https://github.com/DisasterCamp/lock-layer) | 支持 🚀 开箱即用 🍄 自动续锁 🔆 锁重试 ⛏️ 可重入锁 ⚙️ 声明式加锁 等高级特性的基于redis实现的分布式锁 |      |
 |  2   |    [fast-mq](https://github.com/DisasterCamp/fast-mq)    | 支持 - 🚀 开箱即用 - 🔆 ACK机制 - 📦 异步通信 - 🎨 消息故障修复 - 🌕 死信队列处理 - 🌪️ 消息、消费组、消费者监控管理 - 💫 灵活接口幂等控制 - 🪐 支持redis单机、主从、集群 等强大特性的基于redis\redisson的轻量级MQ中间件 |      |
-|  3   |    [Cornucopia](https://gitee.com/disaster_-camp/Cornucopia)    | 这是一个资源共享的项目，不同知识模块对应不同的项目模块。不同模块以-project结尾，其中模块中的note目录存放着各位共享者推荐的书籍/笔记/心得各供大家自行下载，src目录则是可以进行相应java知识内容的练习。 |      |
+|  3   |    [Cornucopia](https://github.com/DisasterCamp/Cornucopia)    | 这是一个资源共享的项目，不同知识模块对应不同的项目模块。不同模块以-project结尾，其中模块中的note目录存放着各位共享者推荐的书籍/笔记/心得各供大家自行下载，src目录则是可以进行相应java知识内容的练习。 |      |
 
 
 ### 🛠️ 如何加入
